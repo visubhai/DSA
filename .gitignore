@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# C++ compiled outputs
+*.out
+*.exe
+*.o
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.vscode/
+.idea/
